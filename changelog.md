@@ -16,3 +16,7 @@ JL: Justin Leung
 ## [1.0.2] - 2018-01-17
 ### Added
 - Added toolkit information upon mouse-hover.
+
+## [1.0.3] - 2018-01-17
+### Added
+- Added a quote display feature where you can click an actors image to view a new page with more details about the actor.
